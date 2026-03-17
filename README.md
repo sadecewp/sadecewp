@@ -5,9 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21759B&center=true&vCenter=true&width=600&lines=WordPress+Geliştirme+Uzmanı+%F0%9F%9A%80;Özel+Tema+%26+Plugin+Geliştirme+%F0%9F%8E%A8;WooCommerce+%26+E-Ticaret+Çözümleri+%F0%9F%9B%92;Yüksek+Performanslı+WordPress+Siteleri+%E2%9A%A1;Full-Stack+WordPress+Development+%F0%9F%94%A7" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21759B&center=true&vCenter=true&width=600&lines=WordPress+Geliştirme+Uzmanı+%F0%9F%9A%80;Özel+Tema+%26+Plugin+Geliştirme+%F0%9F%8E%A8;WooCommerce+%26+E-Ticaret+Çözümleri+%F0%9F%9B%92;Yüksek+Performanslı+WordPress+Siteleri+%E2%9A%A1;Full-Stack+WordPress+Development+%F0%9F%94%A7" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -97,12 +95,12 @@ Müşterilerimize özel, hızlı, güvenli ve ölçeklenebilir WordPress deneyim
       <sub>Modern mimari yaklaşımlar</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/48/migration.png" width="48"/><br/>
+      <b style="font-size:36px">🔄</b><br/><br/>
       <b>Migrasyon & Aktarım</b><br/>
       <sub>Sorunsuz geçiş garantisi</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/48/seo.png" width="48"/><br/>
+      <b style="font-size:36px">📈</b><br/><br/>
       <b>Teknik SEO</b><br/>
       <sub>Arama motorlarında üste çık</sub>
     </td>
@@ -128,27 +126,12 @@ Müşterilerimize özel, hızlı, güvenli ve ölçeklenebilir WordPress deneyim
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sadecewp&show_icons=true&theme=tokyonight&title_color=21759B&icon_color=00AADC&border_color=21759B&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadecewp&layout=compact&theme=tokyonight&title_color=21759B&border_color=21759B&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sadecewp&theme=tokyonight&border=21759B&ring=21759B&fire=00AADC&currStreakLabel=21759B" />
-</div>
-
-<br/>
-
----
-
 ## 📬 Bize Ulaşın
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Website-sadecewp.com-21759B?style=for-the-badge)](https://sadecewp.com)
-[![E-posta](https://img.shields.io/badge/📧_E--posta-info@sadecewp.com-D44638?style=for-the-badge)](mailto:info@sadecewp.com)
+[![E-posta](https://img.shields.io/badge/📧_E--posta-iletisim@sadecewp.com-D44638?style=for-the-badge)](mailto:iletisim@sadecewp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SadeceWP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/sadecewp)
 [![Twitter](https://img.shields.io/badge/Twitter-@sadecewp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sadecewp)
 
