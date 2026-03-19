@@ -1,9 +1,4 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,100:00AADC&height=200&section=header&text=SadeceWP&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20Uzmanlığında%20Sadece%20Mükemmel&descAlignY=60&descAlign=50" width="100%"/>
-</div>
 
-<br/>
 
 ---
 
@@ -149,7 +144,3 @@ Her proje için en iyi teknolojiyi seçiyor, sürdürülebilir bir mimari kuruyo
 <br/>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AADC,100:21759B&height=120&section=footer&text=WordPress%27te%20sadece%20en%20iyisi&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-</div>
