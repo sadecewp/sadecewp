@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,100:00AADC&height=200&section=header&text=SadeceWP&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20Uzmanlığında%20Sadece%20Mükemmel&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21759B&center=true&vCenter=true&width=600&lines=WordPress+Geliştirme+Uzmanı+%F0%9F%9A%80;Özel+Tema+%26+Plugin+Geliştirme+%F0%9F%8E%A8;WooCommerce+%26+E-Ticaret+Çözümleri+%F0%9F%9B%92;Yüksek+Performanslı+WordPress+Siteleri+%E2%9A%A1;Full-Stack+WordPress+Development+%F0%9F%94%A7" alt="Typing SVG" />
-</div>
-
 <br/>
 
 ---
