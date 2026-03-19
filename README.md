@@ -12,7 +12,7 @@
 > **SadeceWP** olarak tek bir misyonumuz var: **WordPress'i doğru yapmak.**  
 > Sıradan şablonlardan değil, koddan başlayan çözümler üretiyoruz.
 
-Müşterilerimize özel, hızlı, güvenli ve ölçeklenebilir WordPress deneyimleri sunuyoruz. Kurumsal projelerden kişisel bloglara, WooCommerce mağazalarından üyelik platformlarına kadar her ölçekte çözüm üretiyoruz.
+Her proje için en iyi teknolojiyi seçiyor, sürdürülebilir bir mimari kuruyoruz. Müşterilerimizin ihtiyaçlarını tam olarak anlayıp, WordPress üzerinde dijital çözümler sunuyoruz.
 
 <br/>
 
@@ -57,47 +57,61 @@ Müşterilerimize özel, hızlı, güvenli ve ölçeklenebilir WordPress deneyim
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/48/wordpress.png" width="48"/><br/>
-      <b>Özel Tema Geliştirme</b><br/>
-      <sub>Sıfırdan, sizin için tasarlanmış</sub>
+    <td align="center" width="220">
+      <b style="font-size:32px">🖥️</b><br/><br/>
+      <b>Talebe Özel Çözüm Geliştirme</b><br/>
+      <sub>Kurumsal site, portal, üyelik sistemi, rezervasyon altyapısı — ne ihtiyacınız varsa WordPress üzerinde sıfırdan tasarlayıp geliştiriyoruz.</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/48/plugin.png" width="48"/><br/>
-      <b>Plugin Geliştirme</b><br/>
-      <sub>İhtiyacınıza özel çözümler</sub>
+    <td align="center" width="220">
+      <b style="font-size:32px">🎨</b><br/><br/>
+      <b>Tema Geliştirme</b><br/>
+      <sub>Markanıza özel, performans odaklı WordPress temaları. Pixel-perfect tasarım aktarımı ve responsive altyapı.</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/48/shop.png" width="48"/><br/>
-      <b>WooCommerce</b><br/>
-      <sub>Güçlü e-ticaret mağazaları</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/48/speed.png" width="48"/><br/>
-      <b>Performans Optimizasyonu</b><br/>
-      <sub>Her saniye önemli</sub>
+    <td align="center" width="220">
+      <b style="font-size:32px">🔌</b><br/><br/>
+      <b>Eklenti Geliştirme</b><br/>
+      <sub>İş süreçlerinize özel WordPress eklentileri. API entegrasyonları, otomasyon ve özel yönetim panelleri.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/48/lock.png" width="48"/><br/>
-      <b>Güvenlik & Bakım</b><br/>
-      <sub>7/24 korumalı siteniz</sub>
+    <td align="center" width="220">
+      <b style="font-size:32px">🤖</b><br/><br/>
+      <b>AI Entegrasyonu</b><br/>
+      <sub>ChatGPT, LLM'ler ve yapay zeka araçlarını WordPress altyapınıza entegre ediyoruz.</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/48/api.png" width="48"/><br/>
-      <b>REST API & Headless WP</b><br/>
-      <sub>Modern mimari yaklaşımlar</sub>
+    <td align="center" width="220">
+      <b style="font-size:32px">🛒</b><br/><br/>
+      <b>WooCommerce & E-Ticaret</b><br/>
+      <sub>Profesyonel online mağazalar, ödeme entegrasyonları, stok yönetimi ve satış optimizasyonu.</sub>
     </td>
-    <td align="center" width="200">
-      <b style="font-size:36px">🔄</b><br/><br/>
-      <b>Migrasyon & Aktarım</b><br/>
-      <sub>Sorunsuz geçiş garantisi</sub>
+    <td align="center" width="220">
+      <b style="font-size:32px">📈</b><br/><br/>
+      <b>SEO & Performans</b><br/>
+      <sub>Core Web Vitals optimizasyonu, teknik SEO denetimi, sayfa hızlandırma ve sıralama stratejileri.</sub>
     </td>
-    <td align="center" width="200">
-      <b style="font-size:36px">📈</b><br/><br/>
-      <b>Teknik SEO</b><br/>
-      <sub>Arama motorlarında üste çık</sub>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <b style="font-size:32px">🔐</b><br/><br/>
+      <b>Güvenlik & Koruma</b><br/>
+      <sub>Güvenlik denetimi, malware temizleme, güvenlik duvarı yapılandırması ve proaktif tehdit izleme.</sub>
+    </td>
+    <td align="center" width="220">
+      <b style="font-size:32px">🔧</b><br/><br/>
+      <b>Bakım & Destek</b><br/>
+      <sub>Düzenli güncelleme, uptime izleme, yedekleme ve öncelikli teknik destek.</sub>
+    </td>
+    <td align="center" width="220">
+      <b style="font-size:32px">🌐</b><br/><br/>
+      <b>Strateji & Danışmanlık</b><br/>
+      <sub>Doğru teknolojiyi seçmek, sürdürülebilir bir mimari kurmak ve bütçenizi verimli kullanmak için ihtiyaç analizi ve teknoloji danışmanlığı.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220" colspan="3">
+      <b style="font-size:32px">🔄</b><br/><br/>
+      <b>Taşıma & Platform Göçü</b><br/>
+      <sub>Hosting değişikliği, versiyon yükseltme ve diğer CMS'lerden WordPress'e kesintisiz geçiş.</sub>
     </td>
   </tr>
 </table>
